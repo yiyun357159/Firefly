@@ -6,7 +6,7 @@ export const profileConfig: ProfileConfig = {
 	// 1. public 目录（以 "/" 开头，不优化）："/assets/images/avatar.webp"
 	// 2. src 目录（不以 "/" 开头，自动优化但会增加构建时间，推荐）："assets/images/avatar.webp"
 	// 3. 远程 URL："https://example.com/avatar.jpg"
-	avatar: "assets/images/avatar.avif",
+	avatar: "https://i1.hdslb.com/bfs/face/fde7ee75fb731e1431e80d99618172770443075b.jpg@240w_240h_1c_1s_!web-avatar-nav.avif",
 
 	// 名字
 	name: "一云OneCloud",
@@ -38,6 +38,14 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa7-solid:envelope",
 			url: "mailto:yiyun357159@gmail.com",
 			showName: false,
+		},
+		{
+
+                       name: "Weibo",
+			icon: "fa7-solid:weibo",
+			url: "https://weibo.com/u/7844471038",
+			showName: false,
+
 		},
 		{
 			name: "X",
