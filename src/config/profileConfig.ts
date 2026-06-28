@@ -29,7 +29,7 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "bilibili",
-			icon: "<span class="iconify" data-icon="ix:bilibili-logo" data-inline="false"></span>",
+			icon: "fa7-brands:bilibili",
 			url: "https://space.bilibili.com/1243489179",
 			showName: false,
 		},
