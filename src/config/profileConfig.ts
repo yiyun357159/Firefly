@@ -41,11 +41,7 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "X",
-<<<<<<< HEAD
-			icon: "ri:twitter-x-fill",
-=======
-			icon: "fa7-solid:twitter",
->>>>>>> 3c9c2b3ea72a5eb3a6ded9312b816ed5fe45900d
+			icon: "simple-icons:x",
 			url: "https://x.com/yiyun357159",
 			showName: false,
 		},
