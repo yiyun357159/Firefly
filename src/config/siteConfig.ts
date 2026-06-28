@@ -9,7 +9,7 @@ export const siteConfig: SiteConfig = {
 	title: "OneCloud's Blog",
 
 	// 站点副标题
-	subtitle: "有朋自远方来，不亦乐乎？",
+	subtitle: "博客页",
 
 	// 站点 URL
 	site_url: "https://firefly.cuteleaf.cn",

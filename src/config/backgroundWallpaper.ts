@@ -81,17 +81,17 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否允许用户通过控制面板切换横幅标题显示
 			switchable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "欢迎来到一云OneCloud的博客",
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"有朋自远方来，不亦乐乎？",
+				"永远相信美好的事情即将发生。",
+				"向阳而生，永远热爱。",
+				"人生如梦，一尊还酹江月。",
+				"仰观宇宙之大，俯察品类之盛。",
+				"清风徐来，水波不兴。",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
