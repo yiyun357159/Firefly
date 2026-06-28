@@ -28,15 +28,15 @@ export const profileConfig: ProfileConfig = {
 			showName: false,
 		},
 		{
-			name: "GitHub",
-			icon: "fa7-brands:github",
-			url: "https://github.com/CuteLeaf",
+			name: "bilibili",
+			icon: "<span class="iconify" data-icon="ix:bilibili-logo" data-inline="false"></span>",
+			url: "https://space.bilibili.com/1243489179",
 			showName: false,
 		},
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "mailto:xiaye@msn.com",
+			url: "mailto:yiyun357159@gmail.com",
 			showName: false,
 		},
 		{
