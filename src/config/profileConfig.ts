@@ -42,7 +42,7 @@ export const profileConfig: ProfileConfig = {
 		{
 
                        name: "Weibo",
-			icon: "fa7-solid:weibo",
+			icon: "simple-icons:weibo",
 			url: "https://weibo.com/u/7844471038",
 			showName: false,
 
