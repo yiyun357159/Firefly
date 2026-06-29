@@ -1,7 +1,7 @@
 export type BackgroundWallpaperConfig = {
 	mode: "banner" | "fullscreen" | "overlay" | "none"; // 壁纸模式：banner横幅模式、fullscreen全屏壁纸、overlay全屏透明覆盖模式或none纯色背景
 	switchable?: boolean; // 是否允许用户通过导航栏切换壁纸模式，默认true
-	playerEnable?: boolean; // 是否启用背景视频播放，默认false
+	playerEnable?: false; // 是否启用背景视频播放，默认false
 	src:
 		| string
 		| string[]
