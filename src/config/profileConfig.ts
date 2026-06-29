@@ -49,7 +49,7 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "X",
-			icon: "simple-icons:x",
+			icon: "fa7-brands:x-twitter",
 			url: "https://x.com/yiyun357159",
 			showName: false,
 		},
