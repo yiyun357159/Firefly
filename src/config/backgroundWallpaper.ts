@@ -46,14 +46,12 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			"assets/images/DesktopWallpaper/01.jpg",
 			"assets/images/DesktopWallpaper/02.jpg",
 			"assets/images/DesktopWallpaper/03.jpg",
-			"assets/images/DesktopWallpaper/04.jpg",
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
 		mobile: [
 			"assets/images/MobileWallpaper/01.jpg",
-		    "assets/images/MobileWallpaper/02.jpg",
-		    "assets/images/MobileWallpaper/03.jpg",	],
+		    "assets/images/MobileWallpaper/02.jpg",	],
 		// 背景视频播放地址
 		// 支持单个视频路径（字符串）或多个视频循环（数组）
 		// 支持远程视频URL，本地视频请放在 public/assets/videos/ 目录下
