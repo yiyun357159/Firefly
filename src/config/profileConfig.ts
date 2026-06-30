@@ -6,7 +6,7 @@ export const profileConfig: ProfileConfig = {
 	// 1. public 目录（以 "/" 开头，不优化）："/assets/images/avatar.webp"
 	// 2. src 目录（不以 "/" 开头，自动优化但会增加构建时间，推荐）："assets/images/avatar.webp"
 	// 3. 远程 URL："https://example.com/avatar.jpg"
-	avatar: "https://i1.hdslb.com/bfs/face/fde7ee75fb731e1431e80d99618172770443075b.jpg@240w_240h_1c_1s_!web-avatar-nav.avif",
+	avatar: "https://p3-pc-sign.douyinpic.com/aweme-avatar/tos-cn-i-0813_oUFEehF10ECAAAA8JCQiOCPiIHBAL8ALXgfw6J~tplv-8yspqt5zfm-300x300.webp?lk3s=93de098e&x-expires=1782997200&x-signature=vPB%2FhteUsAZQf3oyx7vV40%2BVmLw%3D&from=2480802190&s=profile&se=false&sc=avatar&l=20260630214303DDB2A84DEBCB99B91B06",
 
 	// 名字
 	name: "一云OneCloud",
