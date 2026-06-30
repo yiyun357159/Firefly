@@ -14,7 +14,7 @@ export type CommentConfig = {
 		 * 国内推荐: https://registry.npmmirror.com/twikoo/1.7.9/files/dist/twikoo.min.js
 		 * 国际推荐: https://cdn.jsdelivr.net/npm/twikoo@1.7.9/dist/twikoo.min.js
 		 */
-		jsUrl?: string;
+		jsUrl?: "https://s4.zstatic.net/npm/twikoo@1.7.9/dist/twikoo.min.js";
 		/**
 		 * Twikoo 自定义 CSS 文件地址，为空则不加载
 		 */
