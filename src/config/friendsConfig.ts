@@ -33,6 +33,7 @@ export const friendsConfig: FriendLink[] = [
 		enabled: true, // 是否启用
 	},
 	
+	
 ];
 
 // 获取启用的友链并进行排序
