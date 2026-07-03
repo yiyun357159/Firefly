@@ -24,19 +24,19 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "qq",
 			icon: "fa7-brands:qq",
-			url: "https://ti.qq.com/open_qq/index2.html?url=mqqapi%3a%2f%2fuserprofile%2ffriend_profile_card%3fsrc_type%3dweb%26version%3d1.0%26source%3d2%26uin%3d2714675229",
+			url: "https://ti.qq.com/open_qq/index2.html?url=mqqapi%3a%2f%2fuserprofile%2ffriend_profile_card%3fsrc_type%3dweb%26version%3d1.0%26source%3d2%26uin%3d2724407528",
 			showName: false,
 		},
 		{
 			name: "bilibili",
 			icon: "fa7-brands:bilibili",
-			url: "https://space.bilibili.com/1243489179",
+			url: "https://space.bilibili.com/2091249737",
 			showName: false,
 		},
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "mailto:yiyun357159@gmail.com",
+			url: "mailto:yiyun357159@126.com",
 			showName: false,
 		},
 		{
