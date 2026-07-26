@@ -6,13 +6,13 @@ export const profileConfig: ProfileConfig = {
 	// 1. public 目录（以 "/" 开头，不优化）："/assets/images/avatar.webp"
 	// 2. src 目录（不以 "/" 开头，自动优化但会增加构建时间，推荐）："assets/images/avatar.webp"
 	// 3. 远程 URL："https://example.com/avatar.jpg"
-	avatar: "assets/images/avatar.avif",
+	avatar: "https://q1.qlogo.cn/g?b=qq&nk=2322469665&s=640",
 
 	// 名字
-	name: "Firefly",
+	name: "一云OneCloud",
 
 	// 个人签名
-	bio: "Hello, I'm Firefly.",
+	bio: "Hello, I'm OneCloud.",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
@@ -24,25 +24,25 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "qq",
 			icon: "fa7-brands:qq",
-			url: "https://qm.qq.com/q/ZGsFa8qX2G",
+			url: "https://ti.qq.com/open_qq/index2.html?url=mqqapi%3a%2f%2fuserprofile%2ffriend_profile_card%3fsrc_type%3dweb%26version%3d1.0%26source%3d2%26uin%3d2724407528",
 			showName: false,
 		},
 		{
-			name: "GitHub",
-			icon: "fa7-brands:github",
-			url: "https://github.com/CuteLeaf",
+			name: "bilibili",
+			icon: "fa7-brands:bilibili",
+			url: "https://space.bilibili.com/2091249737",
 			showName: false,
 		},
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "mailto:xiaye@msn.com",
+			url: "mailto:yiyun357159@126.com",
 			showName: false,
 		},
 		{
-			name: "RSS",
-			icon: "fa7-solid:rss",
-			url: "/rss/",
+			name: "Weibo",
+			icon: "fa7-brands:weibo",
+			url: "https://weibo.com/u/7844471038",
 			showName: false,
 		},
 	],
